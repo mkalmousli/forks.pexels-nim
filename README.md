@@ -32,7 +32,7 @@ let
   pics: PexelsPhotosResponse =
     waitFor px.search("cat", perPage = 5)
 for pic in pics:
-  echo picture.src.tiny
+  echo pic.src.tiny
 ```
 
 **Search for Videos**
