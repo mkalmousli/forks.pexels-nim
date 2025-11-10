@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <code>nimble install pexels</code>
+  <code>nimble install https://github.com/openpeeps/pexels-nim</code>
 </p>
 
 <p align="center">
